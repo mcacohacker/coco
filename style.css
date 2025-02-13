@@ -1,6 +1,13 @@
 body{
-background-color: darkgreen;
+background-color: #529252
 }
+
+.titulo{
+    font-size: 50px;
+    color: darkolivegreen;
+}
+
 .macaquinhos {
-.widht: 50%;
+.width: 50%;
+border-radius: 50px;
 }
